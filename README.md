@@ -11,12 +11,6 @@ _Menu Viewing_: Users can view menus of individual restaurants.
 
 _Order Placement_: Facilitates placing orders for desired food items.
 
-_Order Tracking_: Provides real-time tracking of orders.
-
-_Payment Integration_: Offers secure payment options for users.
-
-_Admin Dashboard_: Admins can manage restaurants, menus, orders, and users.
-
 Installation
 To run the Swiggato application locally, follow these steps:
 
