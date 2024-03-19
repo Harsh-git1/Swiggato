@@ -1,5 +1,5 @@
 # Swiggato - Food Delivery App
-Swiggato is a food delivery application developed using Java and Spring Boot framework, with PostgreSQL as the database management system. In this project comprehensive business logic, including order handling, menu management, and delivery partner assignment has been implemented
+Swiggato is a food delivery application developed using Java and Spring Boot framework, with PostgreSQL as the database management system. In this project comprehensive business logic, including order handling, menu management, and delivery partner assignment has been implemented.
 
 
 ## Features
