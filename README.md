@@ -11,7 +11,8 @@ _Menu Viewing_: Users can view menus of individual restaurants.
 
 _Order Placement_: Facilitates placing orders for desired food items.
 
-Installation
+
+## Installation
 To run the Swiggato application locally, follow these steps:
 
 Clone the repository: git clone https://github.com/Harsh-git1/Swiggato.git
